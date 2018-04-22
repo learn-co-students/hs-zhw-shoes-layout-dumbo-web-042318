@@ -22,6 +22,36 @@
   clear: both;
 }
 
+.col-1 {
+  float: left;
+  width: 66%;
+  margin: 0 1% 1% 0;
+}
+
+.col-2 {
+  float: left;
+  width: 32%;
+  margin: 0 0 1% 1%;
+}
+
+.col-3a {
+  float: left;
+  width: 32%;
+  margin: 1% 1% 1% 1%;
+}
+
+.border_right {
+  float: left;
+  width: 32%;
+  margin: 1% 1% 1% 1%;
+}
+
+.first {
+  margin: 1% 1% 1% 0;
+}
+
+.last {
+  margin: 1% 0 1% 1%;
+}
+
 /* Posititoning Classes */
-
-
